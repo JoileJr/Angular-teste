@@ -9,4 +9,10 @@ mat-card{
   margin-top: 2rem;
 }
 
-
+.loading-spinner{
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.15);
+}
